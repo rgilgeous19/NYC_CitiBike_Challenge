@@ -7,6 +7,8 @@
   The main purpose of this project is to use the data visualization and analysis from the NYC Bike Sharing data
   to convince investors that this same concept can work in Des Moines, Iowa. 
   
+  [NYC CITIBIKE CHALLENGE](https://public.tableau.com/app/profile/raeann.gilgeous/viz/Module14Challenge_16580346972970/NYCCitiBikeChallenge?publish=yes)
+  
 ## RESULTS
 
   - The peak hours for ride sharing is betweem 5pm and 6pm.
